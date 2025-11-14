@@ -6,11 +6,11 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=4n3w&layout=compact&theme=dark&count_private=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=4n3w&theme=dark)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=4n3w&theme=dark&count_private=true)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=4n3w&color=blue&style=flat-square)
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
 
 ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -18,12 +18,18 @@
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 ![Cloud Foundry](https://img.shields.io/badge/Cloud_Foundry-0C9ED5?style=for-the-badge&logo=cloudfoundry&logoColor=white)
-![GemFire](https://img.shields.io/badge/redacted_GemFire-607078?style=for-the-badge)
+![GemFire](https://img.shields.io/badge/GemFire-607078?style=for-the-badge)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
-
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Zig](https://img.shields.io/badge/Zig-F7A41D?style=for-the-badge&logo=zig&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
+![OpenBSD](https://img.shields.io/badge/OpenBSD-F2CA30?style=for-the-badge&logo=openbsd&logoColor=black)
 ![CKAD](https://img.shields.io/badge/Certified_Kubernetes_Application_Developer-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![CKA](https://img.shields.io/badge/Certified_Kubernetes_Administrator-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 <!--

@@ -8,19 +8,18 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=4n3w&theme=dark)
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=4n3w&color=blue&style=flat-square)
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
 ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![BOSH](https://img.shields.io/badge/BOSH-00A98F?style=for-the-badge)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-![GemFire](https://img.shields.io/badge/redacted_GemFire-607078?style=for-the-badge)
-![TAS](https://img.shields.io/badge/Tanzu_Application_Service-0091DA?style=for-the-badge)
 ![Cloud Foundry](https://img.shields.io/badge/Cloud_Foundry-0C9ED5?style=for-the-badge&logo=cloudfoundry&logoColor=white)
-![Apache Geode](https://img.shields.io/badge/Apache_Geode-D22128?style=for-the-badge&logo=apache&logoColor=white)
+![GemFire](https://img.shields.io/badge/redacted_GemFire-607078?style=for-the-badge)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)

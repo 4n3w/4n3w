@@ -1,10 +1,10 @@
 ## 4n3w's GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=4n3w&show_icons=true&theme=dark)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=4n3w&show_icons=true&theme=dark&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=4n3w&layout=compact&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=4n3w&layout=compact&theme=dark&count_private=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=4n3w&theme=dark)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=4n3w&theme=dark&count_private=true)
 
 <!--
 **4n3w/4n3w** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

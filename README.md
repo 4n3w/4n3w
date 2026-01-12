@@ -1,11 +1,13 @@
 ## 4n3w's GitHub Stats
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&lines=Resident+Engineer+%7C+Distributed+Systems+Engineer;Site+Reliability+Engineer;Platform+Engineer;Software+Engineer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=10000&color=2E9EF7&lines=Resident+Engineer+%7C+Distributed+Systems+Engineer;Site+Reliability+Engineer;Platform+Engineer;Software+Engineer)](https://git.io/typing-svg)
 
+<!-- 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=4n3w&layout=compact&theme=dark&count_private=true)
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=4n3w&show_icons=true&theme=dark&count_private=true)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=4n3w&theme=dark&count_private=true)
+-->
 
 ![Profile Views](https://komarev.com/ghpvc/?username=4n3w&color=blue&style=flat-square)
 
